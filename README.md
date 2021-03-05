@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 仿芯查查UI 由于升级Flutter2，部分代码可能存在空安全错误，请自行修改。
+![](https://user-images.githubusercontent.com/9588025/110121863-e1968980-7df9-11eb-95d4-b9c8f9861b9f.gif)
